@@ -7365,7 +7365,7 @@
           "typographyAdvanced": "Tipografía",
           "dimUnfocusedPanes": "Atenuar paneles sin foco.",
           "activePaneBorder": "Borde del panel activo",
-          "activePaneBorderDesc": "Resalta con un borde el panel enfocado. Usa el grosor del divisor de arriba.",
+          "activePaneBorderDesc": "Resalta con un borde el panel enfocado. Usa el grosor configurado para los divisores.",
           "activePaneBorderColor": "Color del borde del panel activo",
           "activePaneBorderColorDesc": "Color del borde del panel enfocado."
         },
